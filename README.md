@@ -48,7 +48,7 @@ la fórmula matemática (Números enteros positivos)
 9. Escribe un algoritmo que dado un número determine cuales, y cuantos
 números es divisible, es decir, sus factores.
 
-10.Un BOEING 747 tiene una capacidad de carga para equipaje de
+10. Un BOEING 747 tiene una capacidad de carga para equipaje de
 aproximadamente 18.000 kg. Escribe un algoritmo que controle la recepción de
 equipajes para este avión, sabiendo:
   • Un bulto no puede exceder la capacidad de carga del avión ni tampoco
@@ -65,7 +65,7 @@ equipajes para este avión, sabiendo:
   Construya una tabla de seguimiento con no menos de 15 bultos para realizar la
   prueba del algoritmo.
   
-12. Escribe un algoritmo que imprima el siguiente patrón
+11. Escribe un algoritmo que imprima el siguiente patrón
   Salida:
   1
   12
